@@ -1,1 +1,1 @@
-# day-1-scientific-python
+# ADD ON COURSE
